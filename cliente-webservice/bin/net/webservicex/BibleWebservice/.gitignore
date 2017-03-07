@@ -1,0 +1,12 @@
+/BibleWebservice.class
+/BibleWebserviceSoap.class
+/GetBibleWordsByBookTitleAndChapter.class
+/GetBibleWordsByBookTitleAndChapterResponse.class
+/GetBibleWordsByChapterAndVerse.class
+/GetBibleWordsByChapterAndVerseResponse.class
+/GetBibleWordsbyKeyWord.class
+/GetBibleWordsbyKeyWordResponse.class
+/GetBookTitles.class
+/GetBookTitlesResponse.class
+/ObjectFactory.class
+/package-info.class
